@@ -1,0 +1,7 @@
+oauth_id.json
+DESIGN.md
+.claude/
+.agents/
+node_modules/
+*.log
+.DS_Store
