@@ -33,7 +33,7 @@ The skill will:
 1. Show you the catalog of supported GCP MCP servers
 2. Ask which one you want
 3. Guide you through creating an OAuth Client ID in the GCP Console
-4. Run `claude mcp add --transport http …` with the correct endpoint
+4. Hand you a ready-to-run `claude mcp add --transport http …` command — you run it and paste your **Client Secret** at the interactive prompt (the secret never enters the chat)
 5. Prompt you to complete the OAuth flow via `/mcp`
 
 ## Supported servers
